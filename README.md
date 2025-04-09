@@ -1,4 +1,5 @@
 # Banking Customer Churn Prediction
+(View the full article [here](https://medium.com/@elijahobisesan01/predicting-bank-customer-churn-a-comprehensive-guide-52b2627405a4)).
 
 ## Project Overview
 
